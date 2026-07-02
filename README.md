@@ -87,7 +87,7 @@ Google Sheets
 
 ### Zapier Workflow
 
-_Add your workflow screenshot here._
+<img width="1909" height="903" alt="Automated Leads Enrichment" src="https://github.com/user-attachments/assets/a3bfa919-7d2d-4fe2-b4f3-806e985904b5" />
 
 
 ---
